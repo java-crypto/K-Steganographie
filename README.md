@@ -8,10 +8,14 @@ Die meisten Programme wurden nicht von mir geschrieben, beachten Sie daher das i
 
 Ebenso wurden von den Autoren und/oder Programmierern die notwendigen Bibliotheken unter eigenen Lizenzen bereitgestellt, bitte beachten Sie diese Rechte.
 
+Erklärungen zu allen Programmen findet Ihr unter: http://javacrypto.bplaced.net/k-steganographie/
+
 Website: http://javacrypto.bplaced.net The programs in this area show examples of Steganography.
 
 * Security notice * Some program are cryptographic unsafe and should not used in any production case, they are provided for learning purposes only. The programms are runnable with Java 8 and Java 11.
 
 Most programs are not written by myself, so please check for individual copyright terms of the authors.
 
-Some authors or programmr of neccessary libraries published there work under a own licence - please obey the rights of the authors. 
+Some authors or programmer of neccessary libraries published there work under a own licence - please obey the rights of the authors. 
+
+You find explanations to all programs here: http://javacrypto.bplaced.net/k-steganographie/
